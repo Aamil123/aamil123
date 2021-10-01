@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://aamil123.github.io/Aamil-Website/)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **aamilnasar@gmail.com**
 
 - ⚡ Fun fact **I play games and watch videos in YouTube**
 
