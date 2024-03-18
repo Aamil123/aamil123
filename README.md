@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://aamil123.github.io/Portfolio/">LINK</a>
+- 👨‍💻 All of my projects are available at <a style="text-decoration: none;" href="https://aamil123.github.io/Portfolio/"><strong>LINK</strong></a>
 
 - 📫 How to reach me **aamilnasar@gmail.com**
 
